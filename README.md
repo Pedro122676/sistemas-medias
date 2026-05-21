@@ -1,3 +1,6 @@
+Aluno: Pedro Henrique dos Santos Souza
+Aluno: Francisco de Assis Branco Filho
+
 # 🎓 Sistema de Médias Escolares
 
 Sistema completo para cadastro de turmas, alunos, lançamento de notas e cálculo de média com conceitos e recuperação.
